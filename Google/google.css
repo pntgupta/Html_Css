@@ -1,0 +1,101 @@
+#body
+{
+	font-family:Arial;
+}
+#center
+{
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+	margin-top: 200px;
+	width:100%;
+}
+#image
+{
+	
+}
+.search-bar
+{
+	margin:20px 0px 20px 0px;
+	width: 600px;
+	height: 30px;
+}
+.search-bar:hover
+{
+	border: 1px solid black;
+	height: 32px;
+	width: 602px;
+}
+#buttons
+{
+
+}
+.button
+{
+	margin-top: 20px;
+	height:30px; 
+	width: 130px;
+	font-weight: bold;
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	color: #757575;
+}
+.button:hover
+{
+	color:#535353;
+	border: 1px solid silver;
+}
+#language
+{
+	font-size: small;
+	margin-top: 25px;
+}
+#language a:link
+{
+	color: blue;
+}
+#language a:visited
+{
+	color: purple;
+}
+#footer
+{	
+	position: absolute;
+	bottom: 0px;
+	background-color: #f2f2f2;
+	height: 30px;
+	width:99%;
+	padding-top: 10px;
+	font-size: small;
+}
+#footer-left
+{
+	margin-left: 20px;
+	position: absolute;
+	left: 0px;
+	display:inline-block;
+}
+#footer a
+{
+	color: #666;
+	margin:10px;
+}
+#footer-right
+{
+	margin-right: 20px;
+	position: absolute;
+	right:0px;
+	display:inline-block;
+}
+a:link
+{
+	text-decoration: none;
+}
+a:visited
+{
+	text-decoration: none;
+}
+a:hover
+{	
+	text-decoration: underline;
+}

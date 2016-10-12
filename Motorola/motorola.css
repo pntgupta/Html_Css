@@ -1,0 +1,234 @@
+body
+{
+		font-family: 'Open Sans' !important;
+		font-weight: normal !important;
+}
+
+header img
+{
+	background-color: #367CDF;
+	height: 46px;
+	width: 46px;
+	border-radius: 50%;
+	padding: 16%;
+
+}
+header ul
+{
+	display: flex;
+	padding: 13px 10px 5px 0px; 
+}
+header ul li
+{
+	margin-right: 2em;
+}
+header a
+{
+	font-size: 16px;
+	font-weight:600;
+	font-family:'Open Sans', sans-serif;
+	color: black;
+	position: relative;
+    top: 0.8em;
+}
+section.jumbotron
+{
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+.jumbotron .container
+{
+	margin: 0px;
+}
+.background
+{
+	background-image: url("https://www.motorola.in/on/demandware.static/-/Sites-Motorola_IN-Library/default/dw75c93470/Homepage/mot-homepage-xforce-hero-d93idf75x.jpg");
+	padding: 3%;
+	padding-bottom: 0px;
+	background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+}
+.background div div.col-lg-6
+{
+	position: absolute;
+	display: block;
+    top: 24%;
+	color: white;
+}
+.background div div.col-lg-6 h2
+{
+	font-weight: bold;
+	font-size: 45px;
+	margin-bottom: 0px;
+}
+.background div div.col-lg-6 h2:nth-child(3)
+{
+	margin-top: 0px;
+}
+.background div div.col-lg-6 p
+{
+	margin-top: 5%;
+	font-size: 20px;
+	font-weight: normal;
+}
+.background div div.col-lg-6 input
+{
+	padding: 10px 20px 10px 20px;
+	background-color:rgb(92, 146, 250);
+	border: none;
+	border-radius: 4px;
+	font-weight: bold;
+	font-size: 14px;
+	width: 130px;
+	height: 50px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.left-logo
+{
+	position: relative;
+	height: 76px;
+	width: 216px;
+}
+.panel-list
+{
+	position: relative;
+	display: flex;
+	padding-left: 15px;
+	margin-bottom: 0px;
+	margin-top: 46%;
+}
+.background .panel-list .category p
+{
+	color:rgb(128, 136, 140);
+	font-size: 15px;
+	font-weight: normal;
+}
+.background .panel-list .category img
+{
+	height: 170px;
+	width: 170px;
+}
+.background .panel-list .category .col-lg-5
+{
+	padding: 0px;
+}
+.background .panel-list .category a
+{
+	color:rgb(92, 146, 250);
+	text-decoration: none;
+	font-weight: bold;
+}
+.panel-list h4
+{
+	color: rgb(34, 44, 48);
+	font-weight: 600;
+	font-size: 18px;
+}
+.background .panel-list .category
+{
+	background-color: rgba(255,255,255,0.9);
+	margin-right: 3px;
+	margin-top: 20px;
+	padding: 5px 5px 5px 10px;
+}
+.lower-panel
+{
+	background-color: #5c92fa;
+    padding: 45px;
+    padding-bottom: 30px;
+    color: #fff;
+}
+.lower-panel h4
+{
+	font-size: 22px;
+	font-weight: 600;
+	margin-top: 0px;
+}
+.jumbotron .row p
+{
+	font-size: 14px;
+	font-weight: 400;
+}
+.jumbotron .row .form-control
+{
+	width: 394px;
+	margin-right: 15px;
+	height: 46px;
+	padding: 0px 10px 0px 10px;
+	display: inline-block;
+}
+.jumbotron .row .btn-default
+{
+	height: 46px;
+	padding: 12px 20px 16px 20px;
+	background: #d5dcdf;
+    color: #afb6ba;
+    text-align: left;
+    font-family: "Open Sans";
+    border-radius: 4px;
+}
+.jumbotron .row span
+{
+	font-size: 11px;
+}
+.jumbotron .row span a
+{
+	color: white;
+	text-decoration: underline;
+}
+.bottom-table
+{
+	width: 70%;
+	background-color: white;
+	position: absolute;
+	left: 10%;
+	margin-top: 4%;
+	height: 20%;
+}
+.bottom-table tr td
+{
+	padding-top: 5%; 
+}
+footer.container
+{
+	position: relative;
+	top:10%;
+	background-color: #222c30;
+	top : 214px;
+	color:#6c7477;
+	font-weight: normal;
+	font-size: 14px;
+	margin: 0px;
+	width: 100%;
+	padding-left:4%;
+}
+footer img
+{
+	height: 46px;
+	width: 150px;
+	margin-bottom: 40px;
+}
+.location
+{
+	color: white;
+	margin: 30px 0px;
+}
+.location a
+{
+	color: white;
+	text-decoration: none;
+}
+.location a:hover
+{
+	color: white;
+	text-decoration: none;
+}
+.second
+{
+	position: relative;
+	top:100px;
+	font-size: 12px;
+}
